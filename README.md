@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm |﹀| ulhey/\mar</h1>
 
-![banner](https://i.ibb.co/PFJHyYW/banner-git-HUb.png)
+![banner](https://i.ibb.co/dkBCGRj/banner-git-HUb2.png)
 
 
 <p align="right"> <h4>Profile Views :-</h4> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
