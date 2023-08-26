@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm |﹀| ulhey/\mar</h1>
-<h5 align="center">Ramón S.</h5>
-<h3 align="center"><i>De todo se sale solo pulsa </i>🌟ESC🌟</h3>
+
+![banner](https://i.ibb.co/PFJHyYW/banner-git-HUb.png)
 
 
 <p align="right"> <h4>Profile Views :-</h4> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
